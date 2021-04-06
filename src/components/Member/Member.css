@@ -1,0 +1,15 @@
+.members-detail h2{
+    margin-bottom: 40px;
+    background-color: #ddd;
+    padding: 10px 0;
+}
+.player-name{
+    margin-bottom: 40px;
+    background-color: #ddd;
+    padding: 10px 0;
+    color: darkgreen;
+}
+.budget{
+    background-color: rgba(255, 183, 27, 0.733);
+    padding: 10px 0;
+}

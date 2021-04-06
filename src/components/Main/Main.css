@@ -31,3 +31,9 @@
     margin-left: 20px;
     width: 100%;
 }
+.main-right h1{
+    margin-bottom: 30px;
+    background-color: green;
+    color: #fff;
+    padding: 10px 0;
+}
