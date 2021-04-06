@@ -1,0 +1,33 @@
+
+.main-left{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background: url("../../images/background_image.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 70%;
+    position: relative;
+}
+.main-left > * {
+    position: relative;
+    z-index: 1;
+}
+.main-left:after{
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.8);
+}
+.main{
+    display: flex;
+}
+.main-right{
+    text-align: center;
+    border-left: 1px solid #ddd;
+    margin-left: 20px;
+    width: 100%;
+}
