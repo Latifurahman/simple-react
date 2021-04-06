@@ -3,8 +3,7 @@ import './Member.css';
 
 const Member = (props) => {
     const members = props.member;
-    const total = members.reduce((total, element) => total + element.salary , 0)
-    console.log(members);
+    const total = members.reduce((total, element) => total + element.salary , 0);
     return (
         <div className="members-detail">
             <h2>Added Player: {members.length}</h2>

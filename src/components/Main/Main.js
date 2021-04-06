@@ -9,7 +9,6 @@ const Main = () => {
     const [member, setMember] = useState([]);
 
     const handleAddPlayer = (player) =>{
-        console.log('added', player);
         const newMember = [...member, player];
         setMember(newMember);
     }
@@ -21,7 +20,7 @@ const Main = () => {
             
             <div className="main-left">
                     {
-                     players.map(player => <Player player={player} handleAddPlayer={handleAddPlayer}></Player>)
+                     players.map(player => <Player player={player} key={player.alpha2Code} handleAddPlayer={handleAddPlayer}></Player>)
                      }
             </div>
 

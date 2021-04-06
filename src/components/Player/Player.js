@@ -5,7 +5,6 @@ import './Player.css';
 
 
 const Player = (props) => {
-    console.log(props);
     const {name, image, salary} = props.player;
     return (
         <div>

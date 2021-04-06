@@ -2,75 +2,90 @@
   "id": 1,
   "name": "Mashrafe Bin Mortaza",
   "image": "https://pbs.twimg.com/media/DMkVSjGUIAENrqp.jpg",
+  "alpha2Code": "Ala",
   "salary": 750000
 }, {
   "id": 2,
   "name": "Shakib Al Hasan",
   "image": "https://ss.thgim.com/cricket/article29823544.ece/alternates/FREE_380/shakibjpg",
+  "alpha2Code": "Bla",
   "salary": 750000
 }, {
   "id": 3,
   "name": "Mohammad Mahmudullah",
   "image": "https://resources.pulse.icc-cricket.com/ICC/photo/2019/10/31/2abe74a5-d610-40d5-8ece-95870d118ec3/Mahmudullah.jpg",
+  "alpha2Code": "Cla",
   "salary": 720000
 }, {
   "id": 4,
   "name": "Mohammad Mushfiqur Rahim",
   "image": "https://cricketaddictor.gumlet.io/wp-content/uploads/2021/02/Mushfiqur-Rahim_16ae0504644_large.jpg?format=webp&compress=true&quality=80&w=750&dpr=2.6",
+  "alpha2Code": "Dla",
   "salary": 740000
 }, {
   "id": 5,
   "name": "Al-Amin Hossain",
   "image": "https://circleofcricket.com/post_image/post_image_3c18316.jpg",
+  "alpha2Code": "Ela",
   "salary": 525000
 }, {
   "id": 6,
   "name": "Tamim Iqbal Khan",
   "image": "https://english.cdn.zeenews.com/sites/default/files/2018/01/15/654228-tamim-iqbal-970-twitter.jpg",
+  "alpha2Code": "Fla",
   "salary": 750000
 }, {
   "id": 7,
   "name": "Mustafizur Rahman",
   "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Mustafizur_Rahman_on_practice_field_in_Dhaka_on_2018_%281%29_%28cropped%29.jpg",
+  "alpha2Code": "Gla",
   "salary": 720000
 }, {
   "id": 8,
   "name": "Liton Kumar Das",
   "image": "https://cdn.wisden.com/wp-content/uploads/2019/05/Liton-DAs-e1557932559815.jpg",
+  "alpha2Code": "Hla",
   "salary": 650000
 }, {
   "id": 9,
   "name": "Mohammad Rubel Hossain",
   "image": "https://resources.pulse.icc-cricket.com/ICC/photo/2018/07/29/82db0c05-433a-4509-9fc3-292cf7f2a03d/GettyImages-1005363994-1-.jpg",
+  "alpha2Code": "Ila",
   "salary": 600000
 }, {
   "id": 10,
   "name": "Soumya Sarkar",
   "image": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_1/public/feature/images/soumya_17.jpg?itok=VMIS0GJx",
+  "alpha2Code": "Jla",
   "salary": 700000
 }, {
   "id": 11,
   "name": "Mosaddek Hossain Saikat",
   "image": "https://cricketaddictor.gumlet.io/wp-content/uploads/2019/11/290301.jpg?format=webp&compress=true&quality=80&w=1400&dpr=2.6",
+  "alpha2Code": "kla",
   "salary": 600000
 }, {
   "id": 12,
   "name": "Taskin Ahmed",
   "image": "https://p.imgci.com/db/PICTURES/CMS/252900/252917.jpg",
+  "alpha2Code": "Lla",
   "salary": 675000
 }, {
   "id": 13,
   "name": "Najmul Hossain Shanto",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo6XrCzET5GwDwRhdlO8nZVqZjyJ8bc5M8sQ&usqp=CAU",
+  "alpha2Code": "Mla",
   "salary": 450000
 }, {
   "id": 14,
   "name": "Mehidy Hasan Miraz",
   "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKOE3vTGlcSoTW5dYTOpxyQnYB6eSKBtDw8A&usqp=CAU",
+  "alpha2Code": "Ghh",
   "salary": 650000
 }, {
   "id": 15,
   "name": "Mohammad Saifuddin",
   "image": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/10/24/Pictures/cricket-ban-afg-zim_efc2a624-f669-11e9-800c-f2f87dfa36aa.jpg",
+  "alpha2Code": "Kle",
   "salary": 550000
 }]
